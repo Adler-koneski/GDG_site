@@ -1,1 +1,3 @@
 # GDG_site
+
+O projeto "GDG" tem como objetivo criar um site voltado para a organização de eventos sobre programação e tecnologia, com foco em promover aprendizado, networking e colaboração entre desenvolvedores. A plataforma será usada para divulgar eventos, workshops, palestras e meetups, facilitando a interação entre participantes e palestrantes. A proposta é criar uma comunidade ativa de entusiastas de tecnologia, oferecendo uma experiência interativa e informativa para os usuários, com funcionalidades como inscrição, agenda de eventos, e discussões online. O site visa fortalecer o ecossistema de desenvolvedores, promovendo o acesso ao conhecimento e ao networking na área de programação.
